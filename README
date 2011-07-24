@@ -1,6 +1,15 @@
 A python library for working with The Hit List
-See example.py
 
-http://www.potionfactory.com/thehitlist/
+Requirements:
+    The Hit List: http://www.potionfactory.com/thehitlist/
+    py-appscript: http://appscript.sourceforge.net/py-appscript/doc/appscript-manual/index.html
+    
+Examples:
+    Several examples are provided in the /examples directory
 
-http://appscript.sourceforge.net/py-appscript/doc/appscript-manual/index.html
+Scripts:
+    Task-oriented scripts are available in /scripts
+
+Tests:
+    A simple test suite can be run from /scripts/test.py
+
